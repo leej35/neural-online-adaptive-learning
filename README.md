@@ -1,6 +1,6 @@
 # Neural Clinical Event Sequence Prediction through Personalized Online Adaptive Learning
 
-This repository is the official implementation of Neural Clinical Event Sequence Prediction through Personalized Online Adaptive Learning. 
+This repository is the official implementation of Neural Clinical Event Sequence Prediction through Personalized Online Adaptive Learning. The paper is published at 19th International Conference on Artificial Intelligence in Medicine (AIME) 2021. Link: https://arxiv.org/pdf/2104.01787.pdf
 
 
 ## Requirements
